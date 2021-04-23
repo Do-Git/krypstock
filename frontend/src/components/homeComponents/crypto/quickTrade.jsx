@@ -131,7 +131,7 @@ export const CryptoQuickTrade = (props) => {
                         <div className="currSelect amountInput">
                             <label htmlFor="company-input">Cryptocurrency</label>
                             <input 
-                                id="company-input" 
+                                id="company-input"
                                 className="selector" 
                                 list="cryptoSymbols" 
                                 style={{"textTransform":"uppercase"}} 
