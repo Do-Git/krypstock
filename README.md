@@ -8,7 +8,7 @@ This is useful for investors who want to try out different scenarios before putt
 
 If you want to try Krypstock, you can go to https://krypstock.propulsion-learn.ch and access directly using email: guest@krypstock.com, pwd: adminadmin.
 
-You can also check the product presentation using the following link: https://www.linkedin.com/posts/jumisanar_for-all-of-you-interested-in-our-recently-activity-6793806009694466049-3c44
+You can also check the product presentation using the following link: https://drive.google.com/file/d/1dE63TBQqTst_AX2MhO28g1HO3TZyq-8x/view?usp=sharing
 
 The website is only supported for phone devices at the moment, but we are planning on bringing it to web browsers in the future. A native app for iOS and Android is also in our plans.
 
