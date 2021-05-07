@@ -1,4 +1,4 @@
-# krypstock
+# Krypstock
 
 Krypstock is a tracker that allows investors to monitor their investments by creating and updating portfolios.
 
